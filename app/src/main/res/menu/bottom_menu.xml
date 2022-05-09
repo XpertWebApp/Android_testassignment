@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_cases"
+        android:icon="@drawable/ic_baseline_cases_24"
+        android:title="Cases" />
+
+    <item
+        android:id="@+id/navigation_states"
+        android:icon="@drawable/ic_baseline_real_estate_agent_24"
+        android:title="States" />
+
+    <item
+        android:id="@+id/navigation_tests"
+        android:icon="@drawable/ic_baseline_add_to_home_screen_24"
+        android:title="Tests" />
+
+</menu>
